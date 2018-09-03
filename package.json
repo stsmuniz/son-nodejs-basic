@@ -1,0 +1,17 @@
+{
+  "name": "son-nodejs-basic",
+  "version": "1.0.0",
+  "description": "school of net",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schoolofnet",
+    "init",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "Salustiano Muniz <stsmuniz@gmail.com>",
+  "license": "ISC"
+}
